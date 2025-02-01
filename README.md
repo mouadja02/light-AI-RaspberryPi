@@ -16,10 +16,7 @@ Le projet utilise PyTorch pour l'entraînement des modèles, avec exportation de
 - [Entraînement et Export des Poids](#entraînement-et-export-des-poids)
 - [Compilation et Inférence en C](#compilation-et-inférence-en-c)
 - [Exécution du Projet](#exécution-du-projet)
-- [Tests et Résultats](#tests-et-résultats)
-- [Utilisation sur RaspberryPi 3](#utilisation-sur-raspberrypi-3)
-- [Installation et Dépendances](#installation-et-dépendances)
-- [Licence](#licence)
+
 
 ---
 
